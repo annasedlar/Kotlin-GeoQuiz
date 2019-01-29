@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GeoQuiz2</string>
+    <string name="question_australia">Canberra is the capital of Australia</string>
+    <string name="question_colombia">Medellin is the capital of Colombia</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean</string>
+    <string name="question_africa">The Nile River is in Egypt</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake</string>
+    <string name="question_atl">The world\'s largest soccer match this year is in Atlanta, February 7</string>
+    <string name="question_NYC">New York is a quaint city</string>
+
+    <string name="hint_australia">Contrary to popular belief, Sydney is not it</string>
+    <string name="hint_colombia">La Primavera Eterna -no es</string>
+    <string name="hint_oceans">Obvious yes</string>
+    <string name="hint_africa">Yessir</string>
+    <string name="hint_asia">Unfortunately for Lake Superior, Russia wins this time</string>
+    <string name="hint_atl">No, the other fútbol!</string>
+    <string name="hint_NYC">It\'s not called the little apple..</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="warning_text">¿¿¿Are you sure you wanna cheat???</string>
+    <string name="show_answer_button">Show me the money</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="judgement_toast">For Shame, Cheater!</string>
+</resources>
